@@ -1,0 +1,21 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "Alt school assignments",
+  "main": "task1.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akinsuyitaiwo/Task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akinsuyitaiwo/Task/issues"
+  },
+  "homepage": "https://github.com/akinsuyitaiwo/Task#readme"
+}
